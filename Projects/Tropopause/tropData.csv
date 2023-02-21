@@ -1,15 +1,15 @@
-Date,Time,Tropopause Level
-22/06/2020,23:00,12673
-23/06/2020,11:00,12283
-23/06/2020,23:00,12065
-24/06/2020,11:00,12040
-24/06/2020,23:00,11786
-25/06/2020,11:00,12210
-25/06/2020,23:00,11500
-26/06/2020,11:00,11101
-26/06/2020,23:00,10553
-27/06/2020,11:00,8658
-27/06/2020,23:00,6661
-28/06/2020,11:00,8893
-28/06/2020,23:00,9515
-29/06/2020,11:00,10360
+Date,Time,Tropopause Level,(Surface)Dry Bulb Temperature ^C ,(Surface)Dew Point Temperature ^C,(Surface)Windspeed knots,(Surface)Wind Direction,(500hPa)Dry Bulb Temperature ^C,(500hPa)Dew Point Temperature ^C,(500hPa)Windspeed knots,(500hPa)Wind Direction
+22/06/2020,23:00,12673,16,11,10,South South West,-14,-35,35,South West
+23/06/2020,11:00,12283,22,11,10,South South West,-14,-36,35,South West
+23/06/2020,23:00,12065,15,20,10,South,-14,-30,30,South South West
+24/06/2020,11:00,12040,27,14,10,South South East,-14,-28,35,South South West
+24/06/2020,23:00,11786,18,15,10,South East,-13,-24,25,South
+25/06/2020,11:00,12210,27,14,10,East South East,-13,-28,20,South
+25/06/2020,23:00,11500,19,13,10,South East,-13,-25,30,South
+26/06/2020,11:00,11101,25,15,10,South West,-14,-43,30,South South West
+26/06/2020,23:00,10553,19,13,10,South West,-16,-16,35,South
+27/06/2020,11:00,8658,16,14,10,South South West,-18,-25,40,South South West
+27/06/2020,23:00,6661,12,9,10,South West,-25,-29,30,South West
+28/06/2020,11:00,8893,16,6,20,South West,-20,-25,30,West
+28/06/2020,23:00,9515,13,8,10,South West,-18,-19,30,West
+29/06/2020,11:00,10360,13,8,20,South West,-15,-21,45,West
